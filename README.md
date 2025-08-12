@@ -15,4 +15,5 @@
 ## Códigos
 [TKinter](códigoTKinter.py)
 
-[PyQt](
+[PyQt](códigoPyQt.py)
+
