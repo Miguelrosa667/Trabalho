@@ -13,4 +13,6 @@
 
 [Selenium e PyAutoGUI](Relatórios/Selenium_e_PyAutoGUI.md)
 ## Códigos
-[TKinter](
+[TKinter](códigoTKinter.py)
+
+[PyQt](
