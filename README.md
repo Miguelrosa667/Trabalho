@@ -5,7 +5,7 @@
 ## Relatórios 
 [Matplotlib e Seaborn](Relatórios/Matplotlib_e_Seaborn.md)
 
-[NumPy e Pandas](
+[NumPy e Pandas](Relatórios/NumPy_e_Pandas.md)
 
 [Paygame](
 
