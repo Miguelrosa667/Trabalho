@@ -108,7 +108,3 @@ def login():
     janela_login.mainloop()
 
 login()
-=======
-### Código do TKinter 
-
->>>>>>> 09b90b6db7b085a611489b19a7d68e82c2c2b6b9
