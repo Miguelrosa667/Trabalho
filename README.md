@@ -7,7 +7,7 @@
 
 [NumPy e Pandas](Relatórios/NumPy_e_Pandas.md)
 
-[Paygame](
+[Paygame](Relatórios/Pygame.md)
 
 [OpenCv](
 ## Códigos
